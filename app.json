@@ -1,0 +1,11 @@
+{
+    "status": "on",
+    "notification": [
+        {
+            "title": "تنبيه مهم!",
+            "description": "لقد تم تحديث التطبيق مع ميزات جديدة. تحقق منها الآن!",
+            "image": "https://example.com/image.jpg",
+            "link": "https://example.com/details"
+        }
+    ]
+}
